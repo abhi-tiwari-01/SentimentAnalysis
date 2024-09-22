@@ -77,7 +77,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhi-tiwari-01/emotion-detection-punjabi-english.git
+   git clone https://github.com/abhi-tiwari-01/SentimentAnalysis.git
 2. Navigate to the project directory:
     ```bash
     cd emotion-detection-punjabi-english
