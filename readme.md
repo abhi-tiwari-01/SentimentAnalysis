@@ -1,4 +1,4 @@
-# Project: Emotion Detection from # Emotion Detection from Punjabi-English Mixed Social Media Posts
+# Emotion Detection from Punjabi-English Mixed Social Media Posts
 
 This project involves building a model to detect emotions from social media posts that are written in a mix of English and Punjabi. It utilizes machine learning and natural language processing techniques to classify the sentiment as either **negative**, **neutral**, or **positive**.
 
