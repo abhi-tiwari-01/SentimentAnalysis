@@ -26,7 +26,7 @@ def main():
     user_input = st.text_area("Enter text for sentiment analysis:")
 
     # Load the VADER sentiment analyzer
-    analyzer = SentimentIntensityAnalyzer()  # Optional: load_model('vader_sentiment_analyzer.pkl')
+    analyzer = SentimentIntensityAnalyzer()
 
     if st.button("Analyze"):
         if user_input:
